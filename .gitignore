@@ -1,1 +1,4 @@
 build/
+build_utf2/
+lib/
+.vscode/
