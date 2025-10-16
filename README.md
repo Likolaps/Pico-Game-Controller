@@ -1,3 +1,11 @@
+# fork made for myself
+
+added new eac proof mode (ty tina)
+
+modified pin output
+
+Build doesn't work yet
+
 # Pico-Game-Controller
 
 Code for a keyboard or game controller using a Raspberry Pi Pico. Capable of handling 11 buttons, 10 LEDs, 1 WS2812B RGB strip, and 2 encoders. Developed with SDVX and IIDX in mind - see branches release/pocket-sdvx-pico and release/pocket-iidx for preconfigured versions.
